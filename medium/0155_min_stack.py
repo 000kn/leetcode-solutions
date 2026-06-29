@@ -1,3 +1,8 @@
+# 155. Min Stack
+# https://leetcode.com/problems/min-stack/
+# Difficulty: Medium
+# Pattern: Two stacks — parallel minStack tracks running minimum (Stack) — O(1) per operation
+
 class MinStack:
 
     def __init__(self):
